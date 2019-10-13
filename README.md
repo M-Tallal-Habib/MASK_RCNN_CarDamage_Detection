@@ -28,13 +28,13 @@ to prepare the training data.
 * [Inspect_Car_Damage_Weights.ipynb]
 This notebooks inspects the weights of a trained model and looks for anomalies and odd patterns.
 
-# Sample Image 
-[](https://github.com/M-Tallal-Habib/MASK_RCNN_CarDamage_Detection/blob/master/CarAccidentDataset/val/4.jpg)
+### Sample Image 
+![](https://github.com/M-Tallal-Habib/MASK_RCNN_CarDamage_Detection/blob/master/CarAccidentDataset/val/4.jpg)
 
-# Mask Detected by Model
-[](https://github.com/M-Tallal-Habib/MASK_RCNN_CarDamage_Detection/blob/master/download.png)
+### Mask Detected by Model
+![](https://github.com/M-Tallal-Habib/MASK_RCNN_CarDamage_Detection/blob/master/download.png)
 
-# Requirements and Libraries
+### Requirements and Libraries
 [All Requirements are already written in requirements.txt](https://github.com/M-Tallal-Habib/MASK_RCNN_CarDamage_Detection/blob/master/requirements.txt)
 
 
